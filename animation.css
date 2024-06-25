@@ -16,13 +16,13 @@
         background: rgb(255, 255, 255);
     }
     20%{
-        background: rgb(0, 0, 0);
+        background: rgb(146, 36, 36);
     }
     30%{
-        background: rgb(255, 255, 255);
+        background: rgb(43, 255, 0);
     }
     40%{
-        background: rgb(0, 0, 0);
+        background: rgb(114, 9, 147);
     }
     50%{
         background: rgb(255, 255, 255);
@@ -37,7 +37,7 @@
         background: black;
     }
     90%{
-        background: rgb(255, 255, 255);
+        background: rgb(20, 194, 78);
     }
     100%{
         background: black;
